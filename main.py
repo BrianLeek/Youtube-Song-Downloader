@@ -70,4 +70,4 @@ os.remove("songs.txt") # Removes the "songs.txt" file.
 
 print(f"Successfully downloaded '{songname}'! Run the script to download another song.")
 
-sys.exit()
+#sys.exit()
