@@ -27,15 +27,15 @@ By enabling headless mode you can run the script in the background well your doi
 By setting `MoveDownloadedFile` to `True` in `config.py` allows the script to move all files downloaded to your default downloads folder and move all files that end in .mp3 to another folder that you set. Open `config.py` and make sure you set the path to your default downloads folder in `DownloadFolderPath` and the path where you want to move the files in `MoveDownloadPath`. Thats it! The next time the script runs it should move the files.
 
 ## Changelog:
-###0.3:
+### 0.3:
  - Code improvements
  - Added a config.py file
  - Option to enable headless mode
  - Option to move downloaded songs
-###0.2:
+### 0.2:
  - Code improvements
  - Merge 2 files into 1.
-###0.1:
+### 0.1:
  - initial release
 
 ## Contributing
